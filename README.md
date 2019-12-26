@@ -1,6 +1,6 @@
 go-circuitbreaker
 ===
-[![GoDoc](https://godoc.org/github.com/nasa9084/go-circuit-breaker?status.svg)](https://godoc.org/github.com/nasa9084/go-circuit-breaker)
+[![GoDoc](https://godoc.org/github.com/nasa9084/go-circuitbreaker?status.svg)](https://godoc.org/github.com/nasa9084/go-circuitbreaker)
 
 An implementation of Circuit Breaker pattern for Go
 
